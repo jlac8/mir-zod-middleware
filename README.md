@@ -96,4 +96,4 @@ Experiment with asynchronous validation where necessary (e.g., checking if a fie
 
 ## Acknowledgments
 
-Special thanks to the my Make it Real instructors and my peers for their feedback and support.
+I would like to thank the Make It Real instructors and my peers for their guidance and support throughout this project. Special thanks to my cohort for sharing valuable feedback.
